@@ -1,0 +1,265 @@
+{
+  "offersData":{
+    "startOffer":{
+      "offerType":"halloween"
+    }
+  },
+  "genresData": [
+    {
+      "style_name": "Trap",
+      "key_image": "trap",
+      "server_image_url": "",
+      "style_info": "Trap",
+      "presets": [
+        {
+          "preset_name": "Krush",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/Trap/Krush.zip",
+          "is_unlock": true,
+          "key_image": "krush",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/krush.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_krush.wav",
+          "rating": 9.8
+        },
+        {
+          "preset_name": "Halloween Boy",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/Trap/Halloween Boy.zip",
+          "is_unlock": true,
+          "key_image": "halloween_boy",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/halloween_boy.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_halloween_boy.wav",
+          "rating": 9.2
+        },
+        {
+          "preset_name": "Pumpkin Stray",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/Trap/Pumpkin Stray.zip",
+          "is_unlock": false,
+          "key_image": "pumpkin_stray",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/pumpkin_stray.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_pumpkin_stray.wav",
+          "rating": 9.6
+        },
+        {
+          "preset_name": "Butterfly Knife",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/Trap/Butterfly Knife.zip",
+          "is_unlock": false,
+          "key_image": "butterfly_knife",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/butterfly_knife.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_butterfly_knife.wav",
+          "rating": 9.7
+        },
+        {
+          "preset_name": "Dr. Honey",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/Trap/Dr. Honey.zip",
+          "is_unlock": false,
+          "key_image": "dr.honey",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/dr.honey.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_dr.honey.wav",
+          "rating": 9.5
+        },
+        {
+          "preset_name": "Memphis",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/Trap/Memphis.zip",
+          "is_unlock": false,
+          "key_image": "memphis",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/memphis.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_memphis.wav",
+          "rating": 8.8
+        },
+        {
+          "preset_name": "Clouds",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/Trap/Clouds.zip",
+          "is_unlock": false,
+          "key_image": "clouds",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/clouds.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_clouds.wav",
+          "rating": 8.9
+        },
+        {
+          "preset_name": "Sunny Walk",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/Trap/Sunny Walk.zip",
+          "is_unlock": false,
+          "key_image": "sunny_walk",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/sunny_walk.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_sunny_walk.wav",
+          "rating": 9.2
+        }
+      ]
+    },
+    {
+      "style_name": "Deep House",
+      "key_image": "deep_house",
+      "server_image_url": "",
+      "style_info": "Deep House",
+      "presets": [
+        {
+          "preset_name": "No Good",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/Deep/No Good.zip",
+          "is_unlock": true,
+          "key_image": "no_good",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/no_good.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_no_good.wav",
+          "rating": 8.4
+        },
+        {
+          "preset_name": "Pacific Disco",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/Deep/Pacific Disco.zip",
+          "is_unlock": true,
+          "key_image": "pacific_disco",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/pacific_disco.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_pacific_disco.wav",
+          "rating": 8.8
+        },
+        {
+          "preset_name": "Freaky",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/Deep/Freaky.zip",
+          "is_unlock": false,
+          "key_image": "freaky",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/freaky.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_freaky.wav",
+          "rating": 9.1
+        },
+        {
+          "preset_name": "Flash Light",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/Deep/Flash Light.zip",
+          "is_unlock": false,
+          "key_image": "flash_light",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/flash_light.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_flash_light.wav",
+          "rating": 9.3
+        },
+        {
+          "preset_name": "Martini",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/Deep/Martini.zip",
+          "is_unlock": false,
+          "key_image": "martini",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/martini.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_martini.wav",
+          "rating": 9.1
+        }
+      ]
+    },
+    {
+      "style_name": "Drum and Bass",
+      "key_image": "drum_and_bass",
+      "server_image_url": "",
+      "style_info": "Drum And Bass",
+      "presets": [
+        {
+          "preset_name": "Out Of Sleep",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/DnB/Out Of Sleep.zip",
+          "is_unlock": true,
+          "key_image": "out_of_sleep",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/out_of_sleep.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_out_of_sleep.wav",
+          "rating": 9.2
+        },
+        {
+          "preset_name": "Humanoid",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/DnB/Humanoid.zip",
+          "is_unlock": true,
+          "key_image": "humanoid",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/humanoid.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_humanoid.wav",
+          "rating": 9.4
+        },
+        {
+          "preset_name": "Mask",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/DnB/Mask.zip",
+          "is_unlock": false,
+          "key_image": "mask",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/mask.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_mask.wav",
+          "rating": 9.3
+        },
+        {
+          "preset_name": "Milk Shaker",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/DnB/Milk Shaker.zip",
+          "is_unlock": false,
+          "key_image": "milk_shaker",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/milk_shaker.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_milk_shaker.wav",
+          "rating": 9.5
+        }
+      ]
+    },
+    {
+      "style_name": "Dubstep",
+      "key_image": "dubstep",
+      "server_image_url": "",
+      "presets": [
+        {
+          "preset_name": "Hell Yeah",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/Dubstep/Hell Yeah.zip",
+          "is_unlock": true,
+          "key_image": "hell_yeah",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/hell_yeah.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_hell_yeah.wav",
+          "rating": 9.1
+        },
+        {
+          "preset_name": "Bubble Gun",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/Dubstep/Bubble Gun.zip",
+          "is_unlock": false,
+          "key_image": "bubble_gun",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/bubble_gun.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_bubble_gun.wav",
+          "rating": 9.4
+        },
+        {
+          "preset_name": "Acid Mash",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/Dubstep/Acid Mash.zip",
+          "is_unlock": false,
+          "key_image": "acid_mash",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/acid_mash.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_acid_mash.wav",
+          "rating": 9.3
+        }
+      ],
+      "style_info": "Dubstep"
+    },
+    {
+      "style_name": "Hip-Hop",
+      "key_image": "hip-hop",
+      "server_image_url": "",
+      "presets": [
+        {
+          "preset_name": "UG Radio",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/Hip-Hop/UG Radio.zip",
+          "is_unlock": true,
+          "key_image": "ug_radio",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/ug_radio.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_ug_radio.wav",
+          "rating": 9.4
+        },
+        {
+          "preset_name": "Soda",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/Hip-Hop/Soda.zip",
+          "is_unlock": false,
+          "key_image": "soda",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/soda.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_soda.wav",
+          "rating": 9.5
+        },
+        {
+          "preset_name": "Cosmic Stars",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/Hip-Hop/Cosmic Stars.zip",
+          "is_unlock": false,
+          "key_image": "cosmic_stars",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/cosmic_stars.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_cosmic_stars.wav",
+          "rating": 9.5
+        },
+        {
+          "preset_name": "Hands Up",
+          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/Hip-Hop/Hands Up.zip",
+          "is_unlock": false,
+          "key_image": "hands_up",
+          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/hands_up.png",
+          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_hands_up.wav",
+          "rating": 8.7
+        }
+      ],
+      "style_info": "Hip-Hop"
+    }
+  ]
+}
