@@ -13,11 +13,11 @@
       "presets": [
         {
           "preset_name": "Krush",
-          "server_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Ogg/Trap/Krush.zip",
+          "server_url": "https://github.com/castles-trip/Rhythm-pads/raw/main/Presets/Ogg/Trap/Krush.zip",
           "is_unlock": true,
           "key_image": "krush",
-          "server_image_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Icons/krush.png",
-          "demo_track_url": "https://www.haramaichi.xyz/Rhythm-pads/Presets/Demo/demo_krush.wav",
+          "server_image_url": "https://github.com/castles-trip/Rhythm-pads/raw/main/Presets/Icons/krush.png",
+          "demo_track_url": "https://github.com/castles-trip/Rhythm-pads/raw/main/Presets/Demo/demo_krush.wav",
           "rating": 9.8
         },
         {
